@@ -4,7 +4,7 @@
 
 / {
     chosen {
-        zmk,physical-layout = &handwired_5x12_physical_layout;
+        zmk,physical-layout = &handwired_5x15_physical_layout;
         zmk,kscan = &kscan0;
     };
 
