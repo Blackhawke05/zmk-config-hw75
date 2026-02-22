@@ -1,6 +1,6 @@
 #include <dt-bindings/zmk/matrix_transform.h>
 #include <dt-bindings/gpio/gpio.h>
-#include "handwired_5x12.physical_layout.dtsi"
+#include "handwired_5x15.physical_layout.dtsi"
 
 / {
     chosen {

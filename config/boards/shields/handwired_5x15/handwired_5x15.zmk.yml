@@ -1,0 +1,9 @@
+file_format: "1"
+id: handwired_5x15
+name: Handwired 5x15
+type: shield
+url: https://github.com/Blackhawke05/zmk-config-hw75
+requires: [pro_micro]
+features:
+  - keys
+siblings: []

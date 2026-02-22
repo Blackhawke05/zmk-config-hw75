@@ -1,6 +1,0 @@
-if SHIELD_HANDWIRED_5X12
-
-config ZMK_KEYBOARD_NAME
-    default "Handwired 5x12"
-
-endif

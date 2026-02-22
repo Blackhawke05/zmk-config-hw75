@@ -1,0 +1,6 @@
+if SHIELD_HANDWIRED_5X15
+
+config ZMK_KEYBOARD_NAME
+    default "Handwired 5x15"
+
+endif
