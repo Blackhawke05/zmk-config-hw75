@@ -1,0 +1,9 @@
+file_format: "1"
+id: handwired_5x12
+name: Handwired 5x12
+type: shield
+url: https://github.com/Blackhawke05/zmk-config-hw60
+requires: [pro_micro]
+features:
+  - keys
+siblings: []

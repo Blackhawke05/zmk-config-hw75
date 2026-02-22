@@ -1,0 +1,4 @@
+include:
+  - board: nice_nano
+    shield: handwired_5x12
+    snippet: studio-rpc-usb-uart
